@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2a698883f6f8fb4383873e18f2d6266
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 170111
+  packageName: Swordsman
+  packageVersion: 1.0
+  assetPath: Assets/Swordsman/Texture_Terrain/NewLayer.terrainlayer
+  uploadId: 372179

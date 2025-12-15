@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09e7e195f122b804681c1bd2565abc18
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 170111
+  packageName: Swordsman
+  packageVersion: 1.0
+  assetPath: Assets/Swordsman/Prefab/SK-Swordsman_Base_mesh.prefab
+  uploadId: 372179
